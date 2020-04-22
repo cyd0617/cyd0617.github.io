@@ -1,0 +1,217 @@
+  .heading{
+   background-color:Pink;
+  color:white;
+  margin:1px；
+  padding:5px;
+  }
+  .pic{
+ line-height:30px;
+ background-color:LightSteelBlue;
+ height:500px;
+ width:700px;
+ float:left;
+ }
+ .word{
+line-height:50px;
+background-color:Pink;
+height:500px;
+width:651px;
+float:right;
+padding:100px;
+}
+.scoups{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1scoups.png);
+float:left;
+}
+.scoups:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2scoups.png);
+float:left;
+}
+.jeonhan{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1jeonhan.png);
+float:left;
+}
+.jeonhan:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2jeonhan.png);
+}
+.joshua{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1joshua.png);
+float:left;
+}
+.joshua:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2joshua.png);
+}
+.jun{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1jun.png);
+float:left;
+}
+.jun:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2jun.png);
+}
+.hoshi{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1hoshi.png);
+float:left;
+}
+.hoshi:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2hoshi.png);
+}
+.wonwoo{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1wonwoo.png);
+float:left;
+}
+.wonwoo:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2wonwoo.png);
+}
+.woozi{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1woozi.png);
+float:left;
+}
+.woozi:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2woozi.png);
+}
+.dk{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1dk.png);
+float:left;
+}
+.dk:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2dk.png);
+}
+.mingyu{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1mingyu.png);
+float:left;
+}
+.mingyu:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2mingyu.png);
+}
+.the8{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1the8.png);
+float:left;
+}
+.the8:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2the8.png);
+}
+.seungkwan{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1seungkwan.png);
+float:left;
+}
+.seungkwan:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2seungkwan.png);
+}
+.vernon{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1vernon.png);
+float:left;
+}
+.vernon:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2vernon.png);
+}
+.dino{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(1dino.png);
+float:left;
+}
+.dino:hover{
+display: inline-block;
+color:#000000;
+height:193px;
+width:193px;
+background:url(2dino.png);
+}
